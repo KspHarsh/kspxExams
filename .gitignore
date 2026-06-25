@@ -1,6 +1,7 @@
 node_modules
 dist
 .firebase
+.vscode/
 .env
 .env.local
 .DS_Store
